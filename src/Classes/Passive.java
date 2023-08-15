@@ -8,6 +8,6 @@ package Classes;
  *
  * @author Pc
  */
-public class PassiveSkill {
+public class Passive {
     
 }
