@@ -9,5 +9,9 @@ package Classes;
  * @author Pc
  */
 public class Area {
+
+    protected String name, description;
+    private static ArrayList<Area> areaList = new ArrayList();
+    protected Image image;
     
 }
