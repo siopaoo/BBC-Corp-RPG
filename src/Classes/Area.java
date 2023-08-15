@@ -18,6 +18,7 @@ public class Area {
         name = n;
         description = d;
         image = new Image(getClass().getResourceAsStream("../Assets/Images/Area/" + src + ".png"));
+        areaList.add(this);
     }
 
     /**
